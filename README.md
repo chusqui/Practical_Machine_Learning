@@ -1,4 +1,4 @@
-##Repo
+##REPOSITORY
 https://github.com/chusqui/Practical_Machine_Learning/
 
 ##HTML version of the project
